@@ -1,6 +1,5 @@
 # Python - Everything is object
 
-This project is 99.9% quizes with almost no writable code. I learnt so many stuff by brainstorming with my peers the following:
 - Why Python programming is awesome
 - What is an object
 - What is the difference between a class and an object or instance
@@ -15,8 +14,3 @@ This project is 99.9% quizes with almost no writable code. I learnt so many stuf
 - What are the built-in mutable types
 - What are the built-in immutable types
 - How does Python pass variables to functions
-
-## Resources
-- [openbookproject.net](http://www.openbookproject.net/thinkcs/python/english2e/ch09.html#objects-and-values)
-- [composingprograms.com](http://composingprograms.com/pages/24-mutable-data.html#sequence-objects)
-- [radar.oreilly.com](http://radar.oreilly.com/2014/10/python-tuples-immutable-but-potentially-changing.html)
